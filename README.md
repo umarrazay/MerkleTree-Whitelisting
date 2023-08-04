@@ -1,6 +1,5 @@
-# Address Whitelisting with Merkle Trees Implementation
+# Address Whitelisting with Merkle Trees
 
-![Merkle Trees](merkle_trees_image.jpg)
 
 This repository provides a comprehensive implementation of address whitelisting using Merkle Trees, a secure and efficient data structure commonly used in blockchain and cryptographic applications. Address whitelisting is a crucial mechanism in systems where only specific addresses are granted access or privileges, ensuring controlled and secure interactions.
 
@@ -11,9 +10,8 @@ This repository provides a comprehensive implementation of address whitelisting 
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Usage and Examples](#usage-and-examples)
-- [Advanced Configuration](#advanced-configuration)
-- [Security Considerations](#security-considerations)
 - [Contributing](#contributing)
+- [Warning](#Warning)
 - [License](#license)
 
 ## Introduction to Merkle Trees
@@ -44,13 +42,6 @@ To get started with using the address whitelisting implementation:
 
 Detailed usage instructions and examples can be found in the [Usage Guide](/docs/usage-guide.md). This guide provides step-by-step instructions on how to integrate the address whitelisting mechanism into your blockchain-based system.
 
-## Advanced Configuration
-
-For advanced users and custom use cases, the repository offers [Advanced Configuration](/docs/advanced-configuration.md) guidelines. These instructions cover scenarios such as modifying the Merkle Tree structure, optimizing gas costs, and adapting the implementation to specific requirements.
-
-## Security Considerations
-
-Address whitelisting is a critical security component. It's important to thoroughly understand the security considerations and best practices. Please refer to the [Security Guidelines](/docs/security-guidelines.md) for insights on potential threats and how to mitigate them effectively.
 
 ## Contributing
 
